@@ -1,4 +1,5 @@
 # AeeMpy: Artificial (ee)nteligence (aeMonge) PYthon
+
 > libs, scripts, docs, info-graphs, tools, etc...
 
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
@@ -7,10 +8,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/aemonge/aeemply.svg?style=social&label=Fork)](https://github.com/aemonge/aeemply/fork)
 [![GitHub stars](https://img.shields.io/github/stars/aemonge/aeemply.svg?style=social&label=Stars)](https://github.com/aemonge/aeemply)
 
-This repository hosts a collection of Python libraries and scripts related to
-artificial intelligence, machine learning, and other related fields. Each
-library has its own folder, along with its own `README.md` file with
-installation and usage instructions.
+This repository hosts a collection of Python libraries, scripts, docs,
+info-graphs, tools, etc., related to artificial intelligence, machine learning,
+and other related fields. Each library has its own folder, along with its own
+`README.md` file with installation and usage instructions.
 
 ## Libraries
 
@@ -20,6 +21,14 @@ installation and usage instructions.
 process of building Convolutional Neural Networks (CNNs). It offers automatic
 configuration of padding and stride, making it easier for users to create and
 customize CNN architectures.
+
+### 2. Alicia
+
+[Alicia](https://github.com/aemonge/alicia/) is a CLI tool for downloading,
+creating, modifying, training, testing, predicting, and comparing image
+classifiers. It provides a simple and intuitive interface for working with
+image classification models, making it easier for users to build and train
+their own models.
 
 ### Contributing
 
@@ -42,8 +51,11 @@ Before contributing, please read our [Contributing Guidelines](
 
 ### License
 
-This repository and its contents have the [MIT License](./LICENSE).
+This repository and its contents are under the [MIT License](
+./LICENSE).
 
 ## Author
 
-Maintained by [Andres Monge](https://github.com/aemonge).
+Maintained by [Andres Monge]( https://github.com/aemonge).
+If you have any questions or suggestions, please feel free
+to [open an issue](https://github.com/aemonge/aeemply/issues).
